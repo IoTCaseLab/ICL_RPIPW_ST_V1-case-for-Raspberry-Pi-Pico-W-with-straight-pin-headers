@@ -8,12 +8,22 @@ The design of the case model was conceived and developed to make the controller 
 
 If your Raspberry Pi Pico W has side-mounted pin headers, we recommend considering another ICL-made case (ICL_RPIPW_SI_V1), which is designed specifically for this pin configuration.
 
+![icl_rpipw_st_v1_image1](https://github.com/user-attachments/assets/39661159-2339-4cdf-9c29-914b763a9529)
+![icl_rpipw_st_v1_image5hor](https://github.com/user-attachments/assets/bd69f6c2-d4ef-45b9-8ee4-79f764d74c0d)
+![icl_rpipw_st_v1_image11](https://github.com/user-attachments/assets/c5582017-860c-4389-bef6-b3d91c087889)
+
+
 ### Who is it for? 
 This case is suitable for use in DIY projects that use the popular Raspberry Pi Pico W microcontroller (the green board with the micro USB connector, from 2022).
 
 Radio amateurs and DIY enthusiasts who need to conveniently connect project components to the RPi Pico W controller will find this case simple and easy to install and use, especially for connecting companion components with cable harnesses (Dupont-style connectors).
 
 We hope to see both beginners and professionals in the ICL case line's user base, including those involved in designing and building smart devices and home automation. The case should also appeal to those who spend a lot of time in a lab: students and teachers, testers, programmers, and those creating educational materials or running a technical blog.
+
+![icl_rpipw_st_v1_image2hor](https://github.com/user-attachments/assets/9b182d8a-bdee-4e9d-9368-b998e1618dbf)
+![icl_rpipw_st_v1_image8](https://github.com/user-attachments/assets/1794c969-3f73-4c8f-98e1-1a4e51e330fa)
+
+
 ### Why did you make it?
 In the DIY field, there is a wide variety of microcontroller boards based on popular hardware platforms like Arduino, ESP8266, ESP32, and Raspberry Pi Pico.
 
@@ -27,6 +37,11 @@ When developing this product, ICL aimed to solve several problems at once:
 - Securely hold the controller in place.
 - Create a well-designed case for the standard controller module.
 - Provide the ability to connect (combine) cases of various sizes, layouts, and purposes for project components.
+
+![icl_rpipw_st_v1_image4hor](https://github.com/user-attachments/assets/eb7855ce-67c5-4318-b16b-fe733d025bff)
+![icl_rpipw_st_v1_image10hor](https://github.com/user-attachments/assets/ea21bf03-7b9b-4c8b-9d35-79ce67f777db)
+
+
 ### What makes it special?
 - Designed specifically for the Raspberry Pi Pico W controller.
 - The panel securely fastens the Dupont connectors in place.
@@ -37,6 +52,11 @@ When developing this product, ICL aimed to solve several problems at once:
 - Although not originally intended, the internal space of the case also allows for the installation of pin headers for the DEBUG port (SWDIO, GND, SWCLK).
 - Features special ICL Square Finger Joints - universal inter-case connectors - that are equipped on all IoT Case Lab products.
 - Ventilation holes are located on three sides: two side faces and the top of the case, to provide passive cooling.
+
+![icl_rpipw_st_v1_image6](https://github.com/user-attachments/assets/3d909cc7-210a-4553-9b70-6c57463b287c)
+![icl_rpipw_st_v1_image7](https://github.com/user-attachments/assets/eaf6445c-5b5b-4c74-892e-22307332cf40)
+![icl_rpipw_st_v1_image9](https://github.com/user-attachments/assets/9ac0391e-1af7-42d3-93a2-afe24a306d92)
+
 
 ### What's in the box, assembly, and installation
 #### Product includes
@@ -64,6 +84,9 @@ Note: Screws, bolts, and nuts are not included with the product. The Raspberry P
 5. Install the necessary cable connectors onto the controller's pin headers so that they lie along both long sides of the case.
 6. Close the bottom opening of the case with the corresponding panel.
 7. Flip the entire assembly into a normal position and, if needed, attach the case to a surface using the mounting tabs. Alternatively, use the mounting tabs to secure the bottom panel you've just installed.
+
+![icl_rpipw_st_v1_image18](https://github.com/user-attachments/assets/fb954dbf-db0c-4590-9ea2-d441c27e1680)
+
 
 ### 3D Model Source Files
 
@@ -106,6 +129,14 @@ Type:
 
 Dimensions:
 - 3 mm (W) x 5 mm (H) x 5 mm (D)
+
+![icl_rpipw_st_v1_image12](https://github.com/user-attachments/assets/d8ac4d57-4ad5-4b3f-ac2a-4edafb7ab98a)
+![icl_rpipw_st_v1_image13](https://github.com/user-attachments/assets/c146ab53-bb26-4b84-9f80-7ffead41b7d5)
+![icl_rpipw_st_v1_image14](https://github.com/user-attachments/assets/25128d17-dfa2-4065-9de7-9d8715a8c109)
+![icl_rpipw_st_v1_image15](https://github.com/user-attachments/assets/8dc8adcc-e9b6-4df9-ab5b-f22a8861e4de)
+![icl_rpipw_st_v1_image16](https://github.com/user-attachments/assets/184d3554-bb1f-40dc-aabe-c1b478de9c25)
+![icl_rpipw_st_v1_image17](https://github.com/user-attachments/assets/7956344b-2b5c-494b-9ec9-31eaa9be69e6)
+
 
 ## Useful links
 Product in store: not yet available
