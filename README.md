@@ -69,7 +69,7 @@ Note: Screws, bolts, and nuts are not included with the product. The Raspberry P
 
 We have not yet implemented the ability to purchase 3D model files as a virtual product, but we plan to do so in the future.
 
-We also provide a model of the case's external contours on GitHub for customers to evaluate the dimensions and the case's projection on the X, Y, and Z planes.
+We also provide a model of the case's external contours on [GitHub](https://github.com/IoTCaseLab/ICL_RPIPW_ST_V1-case-for-Raspberry-Pi-Pico-W-with-straight-pin-headers/blob/main/res/RPi-Pico-W-2022-model_straight_mcu2-type2_solidDemoBrick.stl) for customers to evaluate the dimensions and the case's projection on the X, Y, and Z planes.
 
 ## Dimensions and mounting holes
 Printing Tolerance: Approximately 0.2 mm
