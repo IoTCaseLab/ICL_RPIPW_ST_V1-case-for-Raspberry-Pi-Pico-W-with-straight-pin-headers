@@ -67,7 +67,7 @@ When developing this product, ICL aimed to solve several problems at once:
 Note: Screws, bolts, and nuts are not included with the product. The Raspberry Pi Pico W controller board is not included.
 
 #### Product properies
-- Case weight (plastic parts only): 00.00 g.
+- Case weight (plastic parts only): 25.12 g.
 - Material: PLA plastic.
 - Color: The color matches the photo. The shade may vary slightly from batch to batch and is not dependent on the ICL.
 
@@ -139,7 +139,7 @@ Dimensions:
 
 
 ## Useful links
-Product in store: not yet available
+Product in store: [Order Globally](https://iot-devices.com.ua/en/product/raspberry-pi-pico-w-icl-rpipw-st-v1-plastic-case-straight/)
 
 Etsy Store: not yet available
 
@@ -158,7 +158,7 @@ Pinterest: not yet available
 Instagram: not yet available
 
 ## Intellectual property
-All intellectual property rights related to this product belong to the creative team at IoT Case Lab (aka ICL). [IoT-devices is authorised](https://iot-devices.com.ua/en/brand/iot-case-lab/) to sell physical and virtual goods developed by ICL.
+All intellectual property rights related to this product belong to the creative team at IoT Case Lab (aka ICL). [IoT-devices is authorised](https://iot-devices.com.ua/en/brand/iot-case-lab/) to sell physical and virtual goods developed by ICL. [See also](https://iot-devices.com.ua/en/iot-devices-and-iot-case-lab-team-up/)
 
 The trademarks, brands, and trade names mentioned in this text belong to their respective owners.
 
